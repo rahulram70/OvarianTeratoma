@@ -1,5 +1,5 @@
 # OvarianTeratoma
-Code for this break project could not be shared due to OHSU <br/>
+Code for the teratoma project could not be shared due to OHSU <br/>
 restrictions on handling patient information. Slides from the <br/>
 presentation have been posted to describe the entire project <br/>.
 <br/>
